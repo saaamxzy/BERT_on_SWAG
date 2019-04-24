@@ -5,7 +5,7 @@ Adversarial Filtering applied to BERT
 
 Lu Xu, Jian hu, Zhengyuan Xu, Xingjian Sun
 
-Mentored by Professor Chris Callison-Burch
+Mentored by Professor Chris Callison-Burch and Deniz Beser
 
 ### Institude
 
